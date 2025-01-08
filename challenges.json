@@ -1,0 +1,47 @@
+[
+{"type":"body",
+"description": "Faça 30 Polichinelos ",
+"amount": 75
+},
+{
+    "type":"body",
+"description": "Faça  20-15  Agachamentos ",
+"amount": 80
+},
+{
+    "type":"body",
+"description": "Faça  10-15 flexões de braço (ou mais, dependendo do seu nível).",
+"amount": 65
+},
+{
+    "type":"body",
+"description": "Faça  10-15 Passadas por perna  ",
+"amount": 80
+},
+{
+    "type":"body",
+"description": "Faça 15-20 Abdominais curtos  ",
+"amount": 75
+},
+{
+    "type":"body",
+"description": "Faça 20-30 segundos de Prancha ",
+"amount": 90
+},
+{
+    "type":"body",
+"description": "Faça  10-15 Elevação lateral das pernas, por lado.  ",
+"amount": 60
+},
+{
+    "type":"body",
+"description": "Faça 20-30 segundos Mountain Climbers ",
+"amount": 60
+},
+{
+    "type":"body",
+"description": "Faça 15-20 Elevação de panturrilhas ",
+"amount": 60
+}
+
+]
