@@ -1,7 +1,9 @@
+# Test-React
 Projeto pessoal voltado para o estudo de react, next e typescript
 
-Iniciando o Projeto Primeiro, execute o servidor de desenvolvimento:
 
+para iniciar o projeto:
+passo 1: abra o terminal e cole o seguinte :
 npm run dev 
 ou
 yarn dev
